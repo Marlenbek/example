@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html style="background:  url(' ') repeat center;">
 <head>
-	<title>terminatoor</title>
+	<title>marslen</title>
 
 	</head>
 <body >
-	<h1 >Temirlan Dusumbaev</h1>
+	<h1 >Taalaibek uulu Marlen</h1>
 	<h2 >EDUCATION</h2>
 	<div  > <em>IT& Business College of Alatoo International University<br>
 Address: Ankara Street 1/8, Tunguch, 720048, Bishkek, Kyrgyz Republic
