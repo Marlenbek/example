@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html style="background:  url('1.jpg ') repeat center;">
+<html style="background:  url(' ') repeat center;">
 <head>
 	<title>terminatoor</title>
-<link rel="stylesheet" type="text/css" href="style.css" />
+
 	</head>
 <body >
 	<h1 >Temirlan Dusumbaev</h1>
@@ -32,6 +32,7 @@ Study years - 2018-2021</em></div>
          <img alt="youtube" src="3.jpg"
          width=100" height="80">
       </a>
+<?php    ?>
 
 
 
