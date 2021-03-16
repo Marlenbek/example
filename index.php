@@ -32,6 +32,10 @@ Study years - 2018-2021</em></div>
          <img alt="youtube" src="3.jpg"
          width=60" height="40">
       </a>
+			      
+	<a href="https://web.whatsapp.com/">
+	 <img src="whatsapp.png"				   
+	 				   
 <?php    ?>
 
 
