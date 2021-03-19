@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="background:  url('m.png ') repeat center;">
+<html style="background:  url('m.png') repeat center;">
 <head>
 	<title>marslen</title>
 
