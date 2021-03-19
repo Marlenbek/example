@@ -15,10 +15,10 @@ Address: Ankara Street 1/8, Tunguch, 720048, Bishkek, Kyrgyz Republic
 Study years - 2018-2021</em></div>
 	<h3 style="color: white">SKILLS</h3>
 	<ul style="style="color: white"list-style-type:square" class="good" >
-            <li>Windows OS, Linux OS, Linux Server</li>
-            <li>HTML & CSS</li>
-            <li>Database (MySQL server)</li>
-	    <li>Basic Programming Knowledge in C++ and Python.</li>
+            <listyle="color: white">Windows OS, Linux OS, Linux Server</li>
+            <listyle="color: white">HTML & CSS</li>
+            <listyle="color: white">Database (MySQL server)</li>
+	    <listyle="color: white">Basic Programming Knowledge in C++ and Python.</li>
         </ul>
 	
  <im
