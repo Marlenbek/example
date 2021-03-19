@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="background:  url('m.jpeg');
+<html style="background:  url('m.jpg');
 	background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;">
