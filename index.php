@@ -9,11 +9,11 @@
 	</head>
 <body >
 	<h1 style="color: white">Taalaibek uulu Marlen</h1>
-	<h2 >EDUCATION</h2>
-	<div  > <em>IT& Business College of Alatoo International University<br>
+	<h2 style="color: white">EDUCATION</h2>
+	<div style="color: white" > <em>IT& Business College of Alatoo International University<br>
 Address: Ankara Street 1/8, Tunguch, 720048, Bishkek, Kyrgyz Republic
 Study years - 2018-2021</em></div>
-	<h3 >SKILLS</h3>
+	<h3 style="color: white">SKILLS</h3>
 	<ul style="list-style-type:square" class="good" >
             <li>Windows OS, Linux OS, Linux Server</li>
             <li>HTML & CSS</li>
