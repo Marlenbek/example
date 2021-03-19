@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<html style="background:  url('m.jpeg') repeat center;">
+<html style="background:  url('m.jpeg');
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;">
 <head>
 	<title>marslen</title>
 
