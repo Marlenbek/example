@@ -8,8 +8,8 @@
 
 	</head>
 <body >
-	<h1 style="color: white">Taalaibek uulu Marlen</h1>
-	<h2 style="color: white">EDUCATION</h2>
+	<h1 style="color: carmine">Taalaibek uulu Marlen</h1>
+	<h2 style="color: redorange">EDUCATION</h2>
 	<div style="color: white" > <em>IT& Business College of Alatoo International University<br>
 Address: Ankara Street 1/8, Tunguch, 720048, Bishkek, Kyrgyz Republic
 Study years - 2018-2021</em></div>
