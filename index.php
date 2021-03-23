@@ -32,7 +32,7 @@ Study years - 2018-2021</em></div>
  
 	
 	<a href="https://www.youtube.com/">
-         <img alt="youtube" m2.jpg"
+         <img alt=" m2.jpg"
          width=40" height="40">
       </a>
 			      
