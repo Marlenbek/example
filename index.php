@@ -16,7 +16,7 @@ Study years - 2018-2021</em></div>
 	<h3 style="color: white">SKILLS</h3>
 	<ul style="style="color: white"list-style-type:square" class="good" >
             <li style="color: white">Windows OS, Linux OS, Linux Server</li>
-            <li style="color: white">HTML & CSS</li>
+            <li style="color: red">HTML & CSS</li>
             <li style="color: white">Database (MySQL server)</li>
 	    <li style="color: white">Basic Programming Knowledge in C++ and Python.</li>
         </ul>
