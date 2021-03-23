@@ -38,7 +38,7 @@ Study years - 2018-2021</em></div>
 			      
 	<a href="https://web.whatsapp.com/">
         <img src=" m1.jpg "				   
-	  width=60" height="40">>
+	  width=40" height="40">>
 					   
 <?php    ?>
 
