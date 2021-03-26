@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <link rel="stylesheet" type="text/css" href="style.css" />
 <style>
   
-body {font-family: Arial, Helvetica, sans-serif; background-image:url("") ; color: #ddd;}
+body {font-family: Arial, Helvetica, sans-serif; background-image:url("m1.jpg") ; color: #ddd;}
 * {box-sizing: border-box}
 /* Full-width input fields */
 input[type=text], input[type=password] {
@@ -76,7 +75,7 @@ button:hover {
     <h1 style="text-align: center;">Sign Up</h1>
     <p style="text-align: center;" >Please fill in this form to create an account.</p>
     <hr>
-    <label type="email" size="32" required name="email" style="text-align: center;"><br>Email</label>
+    <label type="email" size="32" required name="email" style="text-align: ;"><br>Email</label>
     <input type="text" placeholder="Enter Email" name="email" id="fname"required>
     <label for="psw"><br>Password</label>
     <input type="password" placeholder="Enter Password" name="psw" id="lname" required>
