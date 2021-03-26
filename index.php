@@ -32,7 +32,7 @@ Study years - 2018-2021</em></div>
  
 	
 	<a href="https://www.youtube.com/">
-         <img alt=" m2.jpg"
+         <img src="https://www.searchpng.com/wp-content/uploads/2019/04/luxury-Youtube-Icon.png"
          width=40" height="40">
       </a>
 			      
