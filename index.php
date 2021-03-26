@@ -26,9 +26,11 @@ Study years - 2018-2021</em></div>
 	
 <a href="" style="color: white"> <button>take</button></a>
 
-    <a  href="">telegram</a>
-    <a  href="https://vk.com/ueban023">VK</a>
-    <a  href="https://www.instagram.com/vipp633/" >Instagram</a>
+   
+	<a href="https://www.instagram.com/mars1en/">
+         <img src="http://i.mycdn.me/i?r=AzEPZsRbOZEKgBhR0XGMT1RkkE-auL7cNPEsGC7db06E76aKTM5SRkZCeTgDn6uOyic"
+         width=40" height="40">
+      </a>
  
 	
 	<a href="https://www.youtube.com/">
