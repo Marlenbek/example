@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="background:  url('backgroun.gpg.jpg');
+<html style="background:  url('backgroun.gph.jpg');
 	background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;">
